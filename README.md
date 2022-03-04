@@ -8,9 +8,9 @@ class Bio extends SoftwareDeveloper {
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'PHP', ...Languages];
-  databases  = ['MySQL/MarinaDB', 'MongoDB', 'PostgreSQL'];
-  frameworks = ['Vue', 'Laravel', ...Frameworks];
+  languages  = ['JavaScript', 'PHP', ...languages];
+  databases  = ['MySQL/MarinaDB', 'MongoDB', 'PostgreSQL', ...databases];
+  frameworks = ['Vue', 'Laravel', ...frameworks];
 }
 ```
 <table>
