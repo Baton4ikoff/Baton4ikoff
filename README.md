@@ -3,8 +3,8 @@ import SoftwareDeveloper from 'Baton4ikoff';
 import Frameworks from 'Laravel';
 
 class Bio extends SoftwareDeveloper {
-  name     = 'Baton4ick';
-  location = 'Russian';
+  name     = 'Igor';
+  location = 'Planet Earth';
 }
 
 class Skills extends SoftwareDeveloper {
