@@ -1,5 +1,5 @@
 ```php
-import SoftwareDeveloper from 'Baton4ickoff';
+import SoftwareDeveloper from 'Baton4ikoff';
 import Frameworks from 'Laravel';
 
 class Bio extends SoftwareDeveloper {
